@@ -8,3 +8,5 @@ I created a Simple CPP project that shows moving cars / buses / logs in the comm
 ## Usage 
 Download the project and run it in Visual Studio
 
+## Note
+The resolution of the game depends on my laptop. So if the game is buggy on your side, you need to adjust the resolution inside the main c++ program.
