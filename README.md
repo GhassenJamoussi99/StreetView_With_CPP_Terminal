@@ -6,5 +6,5 @@ I created a Simple CPP project that shows moving cars / buses / logs in the comm
  Ghassen Jamoussi
 
 ## Usage 
-Download the project and run it in Visual Studio project
+Download the project and run it in Visual Studio
 
